@@ -12,7 +12,7 @@ int main(){
     E = E+1;
     }
 }
-    cout << "#Even numbers = " << E << "\n";
+    cout << "#Even numbers = " << E-1 << "\n";
     cout << "#Odd numbers = " << O;
     return 0;
 }
